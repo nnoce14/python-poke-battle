@@ -1,0 +1,83 @@
+﻿skip,type,hp,attack,defense,sp attack,sp defense,speed,,,,
+Venasaur,Grass,100,82,83,100,100,80,Solar Beam,Acid,Double-Edge,Mega Drain
+Charizard,Fire,98,84,78,109,85,100,Flamethrower,Wing Attack,Dragon Rage,Fire Blast
+Blastoise,Water,99,83,100,85,105,78,Hydro Pump,Surf,Headbutt,Slam
+Butterfree,Bug,80,45,50,80,80,70,Pin Missile,Swift,Twineedle,Poison Sting
+Beedrill,Bug,85,80,40,45,80,75,Poison Sting,Tri Attack,Leech Life,Cut
+Pidgeot,Flying,103,80,75,70,70,91,Fly,Sky Attack,Quick Attack,Peck
+Raticate,Normal,75,81,60,50,70,97,Quick Attack,Bite,Hyper Fang,Scratch
+Fearow,Flying,85,90,65,61,61,100,Fly,Gust,Wing Attack,Swift
+Arbok,Poison,80,85,69,65,79,80,Poison Sting,Sludge,Quick Attack,Skull Bash
+Raichu,Electric,80,90,55,90,80,110,Thunder,Quick Attack,Thunderbolt,Stomp
+Sandslash,Ground,95,100,110,45,55,65,Dig,Headbutt,Earthquake,Pay Day
+Nidoqueen,Poison,110,82,87,75,85,76,Acid,Body Slam,Bone Club,Smog
+Nidoking,Poison,101,92,77,85,75,85,Sludge,Slam,Earthquake,Barrage
+Clefable,Normal,115,70,73,85,90,60,Protect,Pound,Recover,Stomp
+Ninetales,Fire,93,76,75,81,100,100,Fire Blast,Body Slam,Take Down,Swift
+Wigglytuff,Normal,140,70,45,75,50,45,Psychic,Mega Punch,Take Down,Thunder
+Golbat,Flying,95,80,70,65,75,90,Bite,Wing Attack,Razor Wind,Toxic
+Vileplume,Grass,90,80,85,100,90,50,Petal Dance,Acid,Solar Beam,Poison Sting
+Parasect,Bug,80,95,80,60,80,30,Leech Life,Mega Drain,Hyper Beam,Slash
+Venomoth,Bug,90,65,60,90,75,90,Psybeam,Leech Life,Solar Beam,Razor Wind
+Dugtrio,Ground,55,80,50,50,70,120,Earthquake,Slash,Rock Slide,Dig
+Persian,Normal,80,70,60,65,65,115,Pay Day,Bite,Fury Swipes,Skull Bash
+Golduck,Water,95,82,78,95,80,85,Confusion,Water Gun,Ice Beam,Surf
+Primeape,Fighting,80,105,60,60,70,95,Karate Chop,Thrash,Submission,Rock Slide
+Arcanine,Fire,100,110,80,100,80,95,Flamethrower,Dragon Rage,Bite,Swift
+Poliwrath,Water,90,85,95,70,90,70,Water Gun,Submission,Blizzard,Hydro Pump
+Alakazam,Psychic,75,50,45,135,85,120,Confusion,Psychic ,Tri Attack,Shadow Ball
+Machamp,Fighting,110,120,80,65,85,55,Submission,Skull Bash,Dig,Rock Slide
+Victreebel,Grass,95,105,65,100,60,70,Vine Whip,Slam,Toxic,Mega Drain
+Tentacruel,Water,85,70,65,80,120,100,Poison Sting,Hydro Pump,Ice Beam,Toxic
+Golem,Rock,90,110,130,55,65,45,Rock Slide,Earthquake,Submission,Double-Edge
+Rapidash,Fire,85,100,70,80,80,105,Fire Blast,Horn Drill,Take Down,Swift
+Slowbro,Water,105,75,110,100,80,30,Surf,Strength,Blizzard,Fire Blast
+Magneton,Electric,70,60,95,120,70,70,Thunderbolt,Swift,Toxic,Thunder
+Farfetch'd,Normal,72,65,55,58,62,60,Peck,Razor Wind,Fly,Slash
+Dodrio,Flying,80,110,70,60,60,100,Sky Attack,Tri Attack,Drill Peck,Skull Bash
+Dewgong,Ice,100,70,80,70,95,70,Ice Beam,Surf,Blizzard,Hyper Beam
+Muk,Poison,105,105,75,65,100,50,Body Slam,Toxic,Fire Blast,Sludge
+Cloyster,Water,70,95,180,85,45,70,Spike Cannon,Ice Beam,Take Down,Bubble Beam
+Gengar,Ghost,80,65,60,130,75,110,Lick,Dream Eater,Thunderbolt,Psychic
+Onix,Rock,65,45,160,30,45,70,Earthquake,Rock Slide,Slam,Rock Throw
+Hypno,Psychic,95,73,70,73,115,67,Psychic,Headbutt,Confusion,Mega Punch
+Kingler,Water,70,130,115,50,50,75,Crabhammer,Toxic,Blizzard,Body Slam
+Electrode,Electric,70,50,70,80,80,140,Thunder,Swift,Thunderbolt,Take Down
+Exeggutor,Grass,95,95,85,125,65,55,Toxic,Solar Beam,Egg Bomb,Psychic
+Marowak,Ground,70,80,110,50,80,45,Thrash,Bone Club,Submission,Earthquake
+Hitmonlee,Fighting,70,120,53,35,110,87,Submission,Mega Kick,Rolling Kick,High Jump Kick
+Hitmonchan,Fighting,70,105,79,35,110,76,Skull Bash,Mega Punch,Ice Punch,Thunder Punch
+Lickitung,Normal,100,55,75,60,75,30,Bubble Beam,Strength,Lick,Thunderbolt
+Weezing,Poison,80,90,120,85,70,60,Acid,Hyper Beam,Sludge,Fire Blast
+Rhydon,Ground,115,130,120,45,45,40,Horn Drill,Take Down,Earthquake,Rock Slide
+Chansey,Normal,175,30,30,35,105,50,Protect,Recover,Egg Bomb,Take Down
+Tangela,Grass,75,55,115,100,40,60,Mega Drain,Slam,Toxic,Cut
+Kangaskhan,Normal,105,95,80,40,80,90,Bite,Mega Kick,Toxic,Take Down
+Seadra,Water,75,65,95,95,45,85,Hydro Pump,Blizzard,Double-Edge,Swift
+Seaking,Water,80,92,65,65,80,68,Surf,Swift,Double-Edge,Peck
+Starmie,Water,70,75,85,100,85,115,Hydro Pump,Thunderbolt,Psychic,Take Down
+Mr. Mime,Psychic,60,45,65,100,120,90,Psychic,Mega Kick,Confusion,Submission
+Scyther,Bug,80,110,80,55,80,105,Slash,Twineedle,Skull Bash,Toxic
+Jynx,Ice,75,50,35,115,95,95,Ice Beam,Bubble Beam,Mega Punch,Blizzard
+Electabuzz,Electric,80,83,57,95,85,105,Thunder,Psychic ,Thunder Punch,Double-Edge
+Magmar,Fire,85,95,57,100,85,93,Fire Blast,Skull Bash,Submission,Flamethrower
+Pinsir,Bug,80,125,100,55,70,85,Pin Missile,Vise Grip,Twineedle,Slash
+Tauros,Normal,75,100,95,40,70,110,Stomp,Earthquake,Body Slam,Take Down
+Magikarp,Water,30,10,55,15,20,80,Struggle,Struggle,Struggle,Struggle
+Gyarados,Water,95,125,79,60,100,81,Surf,Hydro Pump,Dragon Rage,Blizzard
+Lapras,Water,130,85,80,85,95,60,Surf,Thunderbolt,Ice Beam,Dragon Rage
+Ditto,Normal,68,48,48,48,48,48,Tackle,Cut,Struggle,Hyper Beam
+Vaporeon,Water,130,65,60,110,95,65,Hydro Pump,Recover,Hyper Beam,Ice Beam
+Jolteon,Electric,85,65,60,110,95,130,Thunder,Quick Attack,Thunderbolt,Toxic
+Flareon,Fire,80,130,60,95,110,70,Fire Blast,Skull Bash,Take Down,Flamethrower
+Porygon,Normal,85,60,70,85,75,40,Psybeam,Tri Attack,Blizzard,Thunderbolt
+Omastar,Water,80,60,125,115,70,55,Bubble Beam,Skull Bash,Surf,Ice Beam
+Kabutops,Water,75,115,105,65,70,80,Surf,Submission,Double-Edge,Razor Wind
+Aerodactyl,Flying,90,105,65,60,75,130,Wing Attack,Dragon Rage,Take Down,Fly
+Snorlax,Normal,160,110,65,65,110,30,Recover,Earthquake,Take Down,Mega Punch
+Articuno,Ice,100,85,100,95,125,85,Blizzard,Fly,Swift,Bubble Beam
+Zapdos,Electric,100,90,85,125,90,100,Thunder,Wing Attack,Swift,Peck
+Moltres,Fire,100,100,90,125,85,90,Fire Blast,Sky Attack,Flamethrower,Razor Wind
+Dragonite,Dragon,91,134,95,100,100,80,Dragon Rage,Ice Beam,Slam,Skull Bash
+Mewtwo,Psychic,115,110,90,154,90,130,Psychic,Toxic,Confusion,Thunderbolt
+Mew,Psychic,110,100,100,100,100,100,Dream Eater,Fire Blast,Solar Beam,Dragon Rage
