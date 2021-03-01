@@ -390,7 +390,6 @@ def player_battle(p1, p2):
                     print("{} used {}! A critical hit! {} does {} damage! It wasn't very effective...\n".format(
                         p1.getName(), p1_move.getName(), p1.getName(), int(p1_damage)))
                 elif (typing_modifier(p1_move.getType().lower(), p2.getType().lower()) == 2):
-                    print("it works here")
                     roll = random.randint(0, 5)
                     if roll == 5:
                         p1_damage *= 3
